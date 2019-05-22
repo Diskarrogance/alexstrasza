@@ -1,0 +1,2 @@
+# alexstrasza
+由SwooleDistributed 3.6.5版本开始自己进行修改。目前主要出于两个考虑，一个是框架需要适应公司业务发展，进行相应的调整。第二个是SwooleDistributed作者已经弃坑，后期与swoole之间的兼容需要自力更生了。
